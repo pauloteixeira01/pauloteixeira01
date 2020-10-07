@@ -1,4 +1,4 @@
-# Hi there 👋
+# Paulo Teixeira :man_technologist:
 
 I am Paulo Teixeira and this is my laboratory of studies 
 and experiences. 
