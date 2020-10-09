@@ -10,7 +10,7 @@ Feel free to contribute and learn from me!
 - ✍ hobbies: read, study, watch and code
 - 💻 my website: http://www.paulotx.com.br/
 
-![Top Langs](https://github.com/PauloTxJS/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloTxJS&layout=compact)](https://github.com/PauloTxJS/github-readme-stats)
 
 
 <!--
