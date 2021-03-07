@@ -10,12 +10,12 @@ Feel free to contribute and learn from me!
 - ✍ hobbies: read, study, watch and code
 - 💻 my website: http://www.paulotx.com.br/
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloTxJS&layout=compact)](https://github.com/PauloTxJS/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pauloteixeira01&layout=compact)](https://github.com/pauloteixeira01/github-readme-stats)
 
 
 <!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloTxJS&layout=compact)](https://github.com/PauloTxJS/github-readme-stats)
-**PauloTxJS/PauloTxJS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pauloteixeira01&layout=compact)](https://github.com/pauloteixeira01/github-readme-stats)
+**pauloteixeira01/pauloteixeira01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
