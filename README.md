@@ -5,8 +5,8 @@ and experiences.
 Feel free to contribute and learn from me!
 
 - 💻 stack:   
-        Front End Ecosystem (HTML5, CSS3, JavaScript, React.js, Next.js, Bootstrap and Material UI)  
-        Back End Ecosystem (Node.js and Firebase)
+        Front End Ecosystem (HTML5, CSS3, JavaScript, ReactJS, React Native, NextJS and Material-UI)  
+        Back End Ecosystem (NodeJS)
 - ✍ hobbies: read, study, watch and code
 - 💻 my website: http://www.paulotx.com.br/
 
