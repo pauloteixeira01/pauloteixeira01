@@ -6,7 +6,7 @@ Feel free to contribute and learn from me!
 
 - 💻 stack:   
         Front End (HTML5, CSS3, JavaScript, TypeScript, ReactJS, React Native, NextJS e Styled Component)  
-        Back End (NodeJS)
+        Back End (NodeJS, NestJS)
 - ✍ hobbies: read, study, watch and code
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pauloteixeira01&layout=compact)](https://github.com/pauloteixeira01/github-readme-stats)
