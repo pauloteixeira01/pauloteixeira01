@@ -6,7 +6,7 @@ Feel free to contribute and learn from me!
 
 - 💻 stack:   
         Front End (HTML5, CSS3, JavaScript, TypeScript, ReactJS, React Native, NextJS e Styled Component)  
-        Back End (NodeJS, NestJS)
+        Back End (NodeJS, NestJS) 
         git, git flow, jest, docker, graphQL
 - ✍ hobbies: read, study, watch and code
 
