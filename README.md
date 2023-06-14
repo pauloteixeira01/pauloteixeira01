@@ -1,7 +1,6 @@
-# Paulo Teixeira :man_technologist:
+# Hey there! My name is Paulo Teixeira :man_technologist:
 
-I am Paulo Teixeira and this is my laboratory of studies 
-and experiences. 
+I´m system analyst nad computer technician and I love tecnology.  
 Feel free to contribute and learn from me!
 
 - 💻 stack:   
