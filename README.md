@@ -1,6 +1,6 @@
 # Hey there! My name is Paulo Teixeira :man_technologist:
 
-I´m system analyst nad computer technician and I love tecnology.  
+I´m system analyst and computer technician and I love tecnology.  
 Feel free to contribute and learn from me!
 
 - 💻 stack:   
