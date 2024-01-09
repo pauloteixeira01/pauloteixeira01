@@ -4,7 +4,7 @@ I´m system analyst and computer technician and I love tecnology.
 Feel free to contribute and learn from me!
 
 - 💻 stack:   
-        Front End (HTML5, CSS3, JavaScript, TypeScript, ReactJS, React Native, NextJS e Styled Component)  
+        Front End (HTML5, CSS3, JavaScript with TypeScript, ReactJS, React Native, NextJS e Styled Component)  
         Back End (NodeJS with express.js or nestJS and Python) 
         git, git flow, jest, docker, graphQL
 - ✍ hobbies: read, study, watch and code
