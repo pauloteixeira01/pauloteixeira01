@@ -1,30 +1,70 @@
 # Hey there! I'm Paulo :man_technologist:
 
-I´ve 5 years of experience as software enginner, I've been worked as web developer and mobile developer, like fullstack. Recently, I´m completed posgraduation degree in robotics and AI and data science and AI. I've been graduated as system analyst and my goal is to make the world a better place through technology. I´m in love about developing creative and innovative solutions. Curious and self- taught, I'm always looking for new challenges in the area that I love to work: Systems Development.
+Senior Software Engineer with 6+ years of experience building scalable web systems and distributed applications, delivering end-to-end solutions across backend and frontend.
 
-- 💻 stack:   
-        Front End (ReactJS, NextJS, React Query, Tailwind css, Shadcn, Styled Component, React Native, JavaScript with TypeScript and react testing library)  
-        Back End (NodeJS with express.js or nestJS, jest, swagger, JavaScript with TypeScript and Python) 
-        git, git flow, docker, graphQL and rabbitMQ
-- ✍ hobbies: read, study, watch and code
+I design and develop end-to-end solutions using Node.js and TypeScript on the backend, and React and Next.js on the frontend. I also have practical experience with Python and Golang in backend services and system integrations when required.
+
+In recent years, I’ve been applying Artificial Intelligence to real production systems — integrating LLMs, automating workflows, and building AI-driven applications that deliver measurable business value.
+
+I hold postgraduate degrees in Robotics & Artificial Intelligence and in Data Science & Artificial Intelligence, which complement my strong software engineering background with solid theoretical foundations.
+
+Currently open to opportunities as a Senior Software Engineer or Full Stack Engineer in international or remote teams, contributing to scalable, AI-enabled products.
 
 My portfolio [here](https://pauloteixeira01.github.io/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pauloteixeira01&layout=compact)](https://github.com/pauloteixeira01/github-readme-stats)
+<h2 align="center">🛠️ Languages & Tools</h2>
 
 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pauloteixeira01&layout=compact)](https://github.com/pauloteixeira01/github-readme-stats)
-**pauloteixeira01/pauloteixeira01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: flex; align-items: flex-start; align: center">
+        
+<table align="center" style="border-spacing: 10px;">
+  <tr height="100">
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48"/><br>JavaScript</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48"/><br>TypeScript</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48"/><br>Python</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=rust" width="48" height="48"/><br>Rust</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=golang" width="48" height="48"/><br>Go</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48" height="48"/><br>HTML</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48" height="48"/><br>CSS</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=grafana" width="48" height="48"/><br>Grafana</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48"/><br>Docker</td>  
+  </tr>
 
-Here are some ideas to get you started:
+  <tr height="100">
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48"/><br>React</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=next" width="48" height="48"/><br>Next.js</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48"/><br>React Native</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48"/><br>Node.js</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/django-icon.svg" width="48" height="48"/><br>Django</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48"/><br>PyTorch</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48"/><br>TensorFlow</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=scikitlearn" width="48" height="48"/><br>Scikit-learn</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=anaconda" width="48" height="48"/><br>Anaconda</td>
+  </tr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <tr height="100">    
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48"/><br>REST API</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=graphql" width="48" height="48"/><br>GraphQL</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48"/><br>GitHub</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48"/><br>GitLab</td>
+    <td align="center" width="96"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48"/><br>Git</td>   
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=terraform" width="48" height="48"/><br>Terraform</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48"/><br>RabbitMQ</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=kafka" width="48" height="48"/><br>Kafka</td> 
+  </tr>
+
+  <tr height="100">
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48"/><br>MySQL</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48"/><br>PostgreSQL</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48"/><br>MongoDB</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cassandra" width="48" height="48"/><br>Cassandra</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=supabase" width="48" height="48"/><br>Supabase</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=firebase" width="48" height="48"/><br>Firebase</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48"/><br>AWS</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=azure" width="48" height="48"/><br>Azure</td>
+  </tr>
+
+  <tr height="100">
+  </tr>
+</table>
+</div>
