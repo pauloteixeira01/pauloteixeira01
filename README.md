@@ -1,6 +1,6 @@
 # Hey there! I'm Paulo :man_technologist:
 
-Senior Software Engineer with 6+ years of experience building scalable web systems and distributed applications, delivering end-to-end solutions across backend and frontend.
+Senior Software Engineer with 7+ years of experience building scalable web systems and distributed applications, delivering end-to-end solutions across backend and frontend.
 
 I design and develop end-to-end solutions using Node.js and TypeScript on the backend, and React and Next.js on the frontend. I also have practical experience with Python and Golang in backend services and system integrations when required.
 
